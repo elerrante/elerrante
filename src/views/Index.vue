@@ -39,7 +39,7 @@
               </div>
             </div>
           </div>
-          <div class="description text-center">
+          <div class=" text-center">
             <p>
              Hi! I'm _Elerrante, from Cali-Colombia, 26 years old. <br> I'm a web developer with ability to adapt in every collaborative
              enviroment while staying focused on achieving high quality results. This drove me to work on personal and proffesional projects. Such projects have taught
@@ -105,7 +105,7 @@
             <h3 style="color: black;" >Work History</h3>
 
                  <div class="profile-tabs">
-            <tabs
+            <tabs 
               :tab-name="['Tax & Legal', 'Geca Group', 'VOZ']"
               :tab-icon="['', '', '']"
               plain
@@ -218,6 +218,7 @@ export default {
 .section {
   padding: 0;
 }
+
 
 .profile-tabs::v-deep {
   .md-card-tabs .md-list {
