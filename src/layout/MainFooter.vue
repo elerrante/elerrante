@@ -7,8 +7,7 @@
     <div class="container">
       
       <div class="copyright">
-        &copy; {{ year }} <br> Made by myself with <md-icon>favorite</md-icon> using
-        <a href="https://www.creative-tim.com/" target="_blank">Creative Tim</a>.
+        &copy; {{ year }} <br> Made by myself.
       </div>
     </div>
   </footer>
